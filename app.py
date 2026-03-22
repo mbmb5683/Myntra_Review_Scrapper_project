@@ -3,6 +3,10 @@ import streamlit as st
 from src.cloud_io import MongoIO
 from src.constants import SESSION_PRODUCT_KEY
 from src.scrapper.scrape import ScrapeReviews
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # loads the .env file
 
 st.set_page_config(
     "myntra-review-scrapper"
