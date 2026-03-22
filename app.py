@@ -13,7 +13,7 @@ st.set_page_config(
 
 )
 
-st.title("Myntra Review Scrapper")
+st.title("🔥Myntra Review Scrapper")
 st.session_state["data"] = False
 
 
