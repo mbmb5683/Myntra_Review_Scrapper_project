@@ -8,13 +8,8 @@ This project is a Myntra review scraper that allows users to extract and analyze
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PWskills-DataScienceTeam/myntra-review-scrapper.git
-   cd myntra-review-scraper
-   ```
 
-2. Create a new conda environment and activate it
+1. Create a new conda environment and activate it
 ```bash
 conda create -p ./env python=3.10 -y
 #to activate the environment
