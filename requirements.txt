@@ -10,4 +10,4 @@ selenium==4.15.2
 streamlit==1.28.0
 tiktoken==0.4.0
 database-connect==0.1.66
--e .
+
